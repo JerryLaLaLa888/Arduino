@@ -1,3 +1,14 @@
+// equipments:
+arduino board
+128x32 oled display
+4x4 keypad
+
+// library used:
+Adafruit SSD 1306
+Adafruit GFX Library
+Adafruit BusIO
+Keypad by Mark Stanley, Alexander Brevig
+
 // at the top layer
 A: start editing x value
 B: start editing y value

@@ -1,5 +1,3 @@
-Keypad:
-
 
 
 RGB led control:
